@@ -20,3 +20,9 @@ This is my first GitHub repo. I'm learning how Git works.
 
 \- Connecting to Claude
 
+
+
+\## Branches
+
+I'm learning how branches work on Git!
+
